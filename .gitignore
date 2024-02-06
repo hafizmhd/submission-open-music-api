@@ -1,0 +1,5 @@
+node_modules
+.env
+Struktur.drawio
+OpenMusicAPIV1PostmanTest
+package-lock.json
